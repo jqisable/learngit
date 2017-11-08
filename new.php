@@ -15,4 +15,5 @@ function maopao($arr)
 echo "xiaoquaml";
 //var_dump("陈垟是傻逼");
 var_dump("我这样做会有结果么");
+var_dump("不知道，走一步算一步");
 ?>
