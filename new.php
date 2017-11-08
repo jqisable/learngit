@@ -12,4 +12,5 @@ function maopao($arr)
 		}
 	} 
 }
+echo "xiaoquaml";
 ?>
