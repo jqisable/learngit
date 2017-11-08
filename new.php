@@ -13,4 +13,5 @@ function maopao($arr)
 	} 
 }
 echo "xiaoquaml";
+var_dump("陈垟是傻逼");
 ?>
