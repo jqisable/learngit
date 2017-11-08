@@ -12,13 +12,4 @@ function maopao($arr)
 		}
 	} 
 }
-echo "xiaoquaml";
-//var_dump("陈垟是傻逼");
-<<<<<<< HEAD
-var_dump("我这样做会有结果么");
-var_dump("真的是愚蠢");
-=======
-var_dump("我这样做会有结果么");
-var_dump("不知道，走一步算一步");
->>>>>>> feature1
 ?>
